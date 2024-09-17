@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "101",
+      "name": "Alisa",
+      "surname": "Mkrtchyan",
+      "age": 18,
+      "salary": 100000
+    }
+  ]
+}
